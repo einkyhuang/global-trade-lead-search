@@ -1,6 +1,0 @@
-interface:
-  display_name: "Global Trade Lead Search"
-  short_description: "Find and verify public foreign-trade business leads"
-  default_prompt: "Use $global-trade-lead-search to find and verify public B2B leads for my product and target market, with source URLs and no guessed facts."
-policy:
-  allow_implicit_invocation: true
