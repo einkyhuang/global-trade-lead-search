@@ -1,0 +1,20 @@
+.env
+.env.*
+*.pyc
+__pycache__/
+.venv/
+dist/
+build/
+.DS_Store
+
+# Local runs and research artifacts
+runs/
+output/
+cache/
+*.local.*
+
+# Credentials and browser state
+*.pem
+*.key
+cookies*.json
+session*.json
